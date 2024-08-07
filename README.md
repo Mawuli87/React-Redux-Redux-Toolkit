@@ -2,8 +2,8 @@
 
 #### React practice
 
-<img src = "src/screenshot/Screenshot1.png" height="400">
-<img src = "src/screenshot/Screenshot2.png" height="400">
+<img src = "src/screenshots/Screenshot1.png" height="400">
+<img src = "src/screenshots/Screenshot2.png" height="400">
 
 #### Docs
 
